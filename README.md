@@ -1,39 +1,55 @@
-This is my personal portfolio website, created to showcase my skills, projects, certifications, and achievements in the field of Computer Science and Engineering. The site is fully responsive and built using HTML, CSS, and JavaScript.
+# 🌐 Srijan Kumar's Portfolio Website
 
-📌 Live Demo
-🔗 View My Portfolio
-(Replace with your actual GitHub Pages URL)
+This is my personal portfolio website showcasing my projects, skills, certificates, and achievements. It is designed using HTML and CSS, and deployed using GitHub Pages.
 
-📁 Project Structure
-MY PORTFOLIO WEBSITE/ 
-├── index.html ├── style.css ├── script.js (if applicable)
-├── images/ │ ├── certificates/ │ ├── projects/ │ 
-└── profile-photo.jpg 
-├── README.md
+## 🔗 Live Site
 
-🎯 Features
-🔥 Clean and modern design
-📱 Responsive layout for mobile and desktop
-🧠 Project showcase with previews
-🏆 Certifications section
-🌐 Hosted on GitHub Pages (100% free)
-💻 Technologies Used
-HTML5
-CSS3
-JavaScript (vanilla)
-Git & GitHub
-🚀 How to Use
-You can fork this repo or download the code and edit index.html, style.css, and images to create your own version.
+Visit my portfolio: [srijanportfolio.me](https://srijanportfolio.me) *(if connected)*  
+Or via GitHub Pages: [View here](https://your-github-username.github.io/your-repo-name)
 
-Steps:
-Clone or download this repository.
-Modify content as per your profile and projects.
-Push to GitHub.
-Enable GitHub Pages in repo settings.
-🧑‍💻 Author
-Srijan Kumar
-Final year B.E. student | CSE | Interested in Web Development & AI
-LinkedIn • GitHub
+## 📁 Folder Structure
 
-📜 License
-This project is open-source and available under the MIT License.
+.
+├── index.html
+├── style.css
+├── /images
+│ ├── projects/
+│ └── certificates/
+
+> ✅ Ensure all image paths are relative (like `images/projects/project1.png`) and that the image folder is pushed to GitHub.
+
+## 💼 Sections
+
+- **About Me** – Short bio and interests  
+- **Projects** – Details with images (like GestureFusion, Automated Copra Grading)  
+- **Certificates** – Visual showcase of certifications  
+- **Contact** – Email and LinkedIn info
+
+## 🛠 Tech Stack
+
+- HTML5  
+- CSS3  
+- Git & GitHub  
+- GitHub Pages for hosting
+
+## 🚀 Hosting Steps (done manually)
+
+1. Uploaded files directly in GitHub web UI  
+2. Ensured image folders (`/images/projects`, `/images/certificates`) were included  
+3. Enabled GitHub Pages:  
+   - Repository → Settings → Pages → Source: `main` → Root  
+4. (Optional) Connected custom domain `srijanportfolio.me`
+
+## 📸 Preview
+
+*(Add a screenshot of your homepage once live)*  
+![Portfolio Screenshot](images/preview.png)
+
+## 📬 Contact
+
+- 📧 Email: your.email@example.com  
+- 🔗 LinkedIn: [linkedin.com/in/srijan-kumar](https://linkedin.com/in/srijan-kumar)
+
+---
+
+### © 2025 Srijan Kumar
