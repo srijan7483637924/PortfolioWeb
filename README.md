@@ -5,7 +5,7 @@ This is my personal portfolio website showcasing my projects, skills, certificat
 ## 🔗 Live Site
 
 Visit my portfolio: [srijanportfolio.me](https://srijanportfolio.me) *(if connected)*  
-Or via GitHub Pages: [View here](https://your-github-username.github.io/your-repo-name)
+Or via GitHub Pages: [View here](https://srijan7483637924.github.io/PortfolioWeb/)
 
 ## 📁 Folder Structure
 
@@ -47,8 +47,8 @@ Or via GitHub Pages: [View here](https://your-github-username.github.io/your-rep
 
 ## 📬 Contact
 
-- 📧 Email: your.email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/srijan-kumar](https://linkedin.com/in/srijan-kumar)
+- 📧 Email: srijankumarmundya@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/srijan-kumar](www.linkedin.com/in/srijana-kumara-013b2a279)
 
 ---
 
