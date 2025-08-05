@@ -43,7 +43,7 @@ Or via GitHub Pages: [View here](https://srijan7483637924.github.io/PortfolioWeb
 ## 📸 Preview
 
 *(Add a screenshot of your homepage once live)*  
-![Portfolio Screenshot](images/preview.png)
+![Portfolio Screenshot](Screenshot PortfolioWb Home Page.jpg)
 
 ## 📬 Contact
 
